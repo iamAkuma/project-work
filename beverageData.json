@@ -1,0 +1,88 @@
+[
+    {
+        "CategoryName": "Beer",
+        "name": "Barahsinghe Pilsner Beer",
+        "img": "https://cheers.com.np/uploads/products/322643642189851695318774509953934740220978.png",
+        "description": "Barahsinghe is a crisp and balanced premium dry hopped lager. Brewed with imported German Malted Darley, Natural Spring Water and Aromatic Hops."
+        ,"price": "200"
+    },
+    {
+        "CategoryName": "Beer",
+        "name": "Gorkha Beer",
+        "img": "https://cheers.com.np/uploads/products/864683898504977570141998383656056704019379.png",
+        "description": "Gorkha is a premium quality beer made with the finest hops, pure water, and barley malt, and was introduced to the Nepali market in 2006 to cater to those who appreciate high-quality local beer."
+        ,"price": "175"
+    },
+    {
+        "CategoryName": "Beer",
+        "name": "Tuborg Gold",
+        "img": "https://cheers.com.np/uploads/products/007924336801487969596753469569380288314312.png",
+        "description": " Tuborg Gold is brewed on pure lager malt and has an inviting aroma of fruit and grain with notes of fennel. It's an elegant beer with an excellent balance between a dry richness, a certain liveliness, and a subtle hop character."
+        ,"price": "220"
+    },
+    {
+        "CategoryName": "Beer",
+        "name": "Nepal Ice",
+        "img": "https://cheers.com.np/uploads/products/490681020607887731011344142964704260.png",
+
+        "description": "Nepal Ice Natura has an alcohol content of 5.5%. Nepal Ice Strong has an alcohol content of 7.0%. Nepal Ice Premium has an alcohol content of 5.5%."
+        ,"price": "190"
+    },
+    {
+        "CategoryName": "Vodka",
+        "name": "8848 Vodka",
+        "img": "https://cheers.com.np/uploads/products/1160468370485454618528897970389741220391755.png",
+
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+        ,"price": "525"
+    },
+    {
+        "CategoryName": "Vodka",
+        "name": "Nude Superior Vodka",
+        "img": "https://cheers.com.np/uploads/products/1947106522566905599529765859549304775570.png",
+        "description": "Nude Superior Vodka claims to be made using the finest ingredients and a meticulous distillation process, resulting in a smooth and premium taste."
+        ,"price": "2110"
+    },
+    {
+        "CategoryName": "Vodka",
+        "name": "Yeti Vodka",
+        "img": "https://cheers.com.np/uploads/products/68347871118650000094216895239715090349541851.png",
+        "description": "The vodka comes in a unique, non-traditional bottle with a striking label that is designed to capture the consumer's attention. The company touts the vodka's special blend as taking the consumer on a magical journey of flavors with a silky smooth palate, a distinctly bright mouthfeel and a pleasantly sweet finish."
+        ,"price": "2200"
+    },
+    {
+        "CategoryName": "Vodka",
+        "name": "Seto Bagh Vodka",
+        "img": "https://cheers.com.np/uploads/products/058185449154444068599455098077916051612.png",
+        "description": "Domestic Seto Bagh Vodka Price in Nepal | Get the Details update of Vodka. Seto Bagh Vodka Proudly Nepali Brand Vodka with 40% Alcohol."
+        ,"price": "2080"
+    },
+    {
+        "CategoryName": "Rum",
+        "name": "Khukri White Rum",
+        "img": "https://cheers.com.np/uploads/products/486171461911495698593642763039174343402822.png",
+        "description": "Khukri white is a complex yet light white rum. Presenting delicate notes of tropical fruits with rich nutty undertones and a creamy character, Khukri white is charcoal filtered for an extra smooth taste; Making it perfect for sipping neat or mixing in cocktails."
+        ,"price": "2110"
+    },
+    {
+        "CategoryName": "Rum",
+        "name": "Old Monk XXX Rum",
+        "img": "https://cheers.com.np/uploads/products/3672191366021293224359107660323022768630869.png",
+        "description": "Old Monk Rum is one of the most iconic rum brands of the world. The Old Monk XXX Rum contains blends which are matured for over 7 Years at a historically old distillery which dates back to 1855.",
+        "price": "1900"
+    },
+    {
+        "CategoryName": "Rum",
+        "name": "Grand Master XXX Rum",
+        "img": "https://cheers.com.np/uploads/products/9036778095774233425947126392094256351219.png",
+        "description": "Grand Master Rum is carefully crafted through time and attention to offer exceptionally great taste and mixability. Each bottle echoes the superior rum experience ingrained in its passionate origins and our attention to texture, depth and quality.The Grand Master Rum tells the story of its fine ingredients with every sip."
+        ,"price": "1800"
+    },
+    {
+        "CategoryName": "Rum",
+        "name": "Khukri Spiced Rum",
+        "img": "https://cheers.com.np/uploads/products/659175997209642606326518407939923063797.png",
+        "description": "Flavours that are extracted from authentic Nepalese spices are masterfully blended with distills of rich molasses and fresh spring water from the Himalayas.It is then aged in homes of exclusive wooden casks at high altitudes resulting in a tasteful concoction of assorted spices enriched with dry fruits that ends with a sweet, smooth and long finish."
+        ,"price": "2300"
+    }
+]
